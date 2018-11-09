@@ -42,4 +42,13 @@ When I finished with the documentation I jumped into the front end and connected
 ![Register Function](./register-function.jpg)
 
 # Part 2 - Milestone Reflections
-Put your response to the weekly question and a link to your team journal assignment here.
+As I talked about above the experience of working on a team was not only different but even better then I had anticipated. It was fun getting to know my teammates more and then jump right into working. We all are very strong developers and great with time and planning. During our planning/research phase we would split the work load and learn as much as we can then report back together and discuss our findings and decide which way to go. The discussions were respectful, progressive, and professional. At first I was quite nervous but after talking with the team and pushing nerves to the side, I was able to start making progress and add some beneficial contributions.
+
+## Front End Deployed:
+https://team-comm.netlify.com/
+
+## Back End Deployed:
+https://teamcomm2.herokuapp.com
+
+## User Accounts Created:
+![Register Postman](./register-postman.jpg)
