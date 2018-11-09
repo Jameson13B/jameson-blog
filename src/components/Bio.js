@@ -27,10 +27,10 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Kyle Mathews</strong> who lives and works in San
-          Francisco building useful things.{' '}
-          <a href="https://twitter.com/kylemathews">
-            You should follow him on Twitter
+          Written by <strong>Jameson Brown</strong> who lives and studies in Salt Lake City
+           as a software engineer .{' '}
+          <a href="https://github.com/Jameson13B">
+            Check out his Github
           </a>
         </p>
       </div>
