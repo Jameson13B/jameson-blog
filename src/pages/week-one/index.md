@@ -1,6 +1,6 @@
 ---
 title: Week One
-date: "2018-10-9T22:12:03.284Z"
+date: "2018-10-09T22:12:03.284Z"
 ---
 
 # Part 1 - Individual Accomplishments this Week
@@ -29,3 +29,6 @@ We are fortunate enough to have some really awesome and strong developers on the
 * Ticket 2 - Fixed and updated README
   * [Github](https://github.com/Lambda-School-Labs/Labs8-TeamComms/pull/15)
   * [Trello](https://trello.com/c/8wSlt57F)
+
+## Detailed Analysis
+Pick one of your tickets and provide a detailed analysis of the work you did.  This should be approximately ¼ page of text, and at least three screenshots.
