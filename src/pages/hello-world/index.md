@@ -1,21 +1,31 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: Week One
+date: "2018-10-9T22:12:03.284Z"
 ---
 
-This is my first post on my new fake blog! How exciting!
+# Part 1 - Individual Accomplishments this Week
+Github Handle: Jameson13B
+![Github Graph](./graph.jpg)
 
-I'm sure I'll write a lot more interesting things in the future.
+## Summary
+This was our first week in Lambda Labs. I have been looking forward to this for a long time and let me tell you it was nothing like I imagined. It was full of time spent researching, studying, learning, and discussing to decide how best to buid this project. No coding at all. But let me tell you this was the best decision we made. Making sure we had looked into many tech stack options an deciding which would work best for this specific project was vital. We are now equiped with a stack that will provide us the best tools and environment to build this project.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+We are fortunate enough to have some really awesome and strong developers on the team. We do all work well together and are able to manage ourselves so well. I thought about who will be on my team and what will it be like and I am incredible happy with how that turned out. Strong team and a strong project, I am excited for what we will be building.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+## Tasks Pulled
 
-![Chinese Salty Egg](./salty_egg.jpg)
+### Front End
+* Ticket 1 - Cleaned up react-app boilerplate & added CSS reset
+  * [Github](https://github.com/Lambda-School-Labs/Labs8-TeamComms/pull/1)
+  * [Trello](https://trello.com/c/FZy5oINY)
+* Ticket 2 - Register user function
+  * [Github](https://github.com/Lambda-School-Labs/Labs8-TeamComms/pull/14)
+  * [Trello](https://trello.com/c/PkIsY6IH)
+
+### Back End
+* Ticket 1 - User API Documentation
+  * [Github](https://github.com/Lambda-School-Labs/Labs8-TeamComms/pull/12)
+  * [Trello](https://trello.com/c/e57NZYFx)
+* Ticket 2 - Fixed and updated README
+  * [Github](https://github.com/Lambda-School-Labs/Labs8-TeamComms/pull/15)
+  * [Trello](https://trello.com/c/8wSlt57F)
