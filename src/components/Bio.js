@@ -28,7 +28,7 @@ class Bio extends React.Component {
         />
         <p>
           Written by <strong>Jameson Brown</strong> who lives and studies in Salt Lake City
-           as a software engineer .{' '}
+           as a software engineer with Lambda School.{' '}
           <a href="https://github.com/Jameson13B">
             Check out his Github
           </a>
