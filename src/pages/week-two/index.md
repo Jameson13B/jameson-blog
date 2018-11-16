@@ -65,12 +65,10 @@ A pretty good list and most are already done. Making great progress and feeling 
 
 ## Front and Back End Connected:
 If you visit this link, you can register/login and upgrade via stripe which all require front and back to be connected.
-
 https://team-comm.netlify.com/
 
 ## Users can login through the front end via OAuth:
 The link below has a Google OAuth login button.
-
 https://team-comm.netlify.com/login
 
 ## APIs are connected and can be interacted with through the front end:
