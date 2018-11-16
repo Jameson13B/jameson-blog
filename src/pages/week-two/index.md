@@ -64,13 +64,16 @@ This week was a fun week for me. I am a big fan of APIs and implementing them in
 A pretty good list and most are already done. Making great progress and feeling great so far. Excited to keep making progress and deliver an awesome product.
 
 ## Front and Back End Connected:
-### If you visit this link, you can register/login and upgrade via stripe which all require front and back to be connected.
+If you visit this link, you can register/login and upgrade via stripe which all require front and back to be connected.
+
 https://team-comm.netlify.com/
 
 ## Users can login through the front end via OAuth:
-### The link below has a Google OAuth login button.
+The link below has a Google OAuth login button.
+
 https://team-comm.netlify.com/login
 
 ## APIs are connected and can be interacted with through the front end:
-Our hosted front end and hosted backend was used to upgrade a premium user. This is the Stripe dashboard confirmation
+Our hosted front end and hosted backend was used to upgrade a premium user. This is the Stripe dashboard confirmation.
+
 ![Stripe Dashboard Subscription](./dashboard_subscription.png)
