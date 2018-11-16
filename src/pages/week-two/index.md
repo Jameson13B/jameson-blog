@@ -76,4 +76,4 @@ Our hosted front end and hosted backend was used to upgrade a premium user. This
 
 ![Stripe Dashboard Subscription](./dashboard_subscription.png)
 
-# [Whiteboard #1 Video - Nth Fibonacci](https://youtu.be/icy1YazAHEY)
+## [Whiteboard #1 Video - Nth Fibonacci](https://youtu.be/icy1YazAHEY)
