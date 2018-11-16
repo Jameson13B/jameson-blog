@@ -4,9 +4,9 @@ date: "2018-16-09T22:12:03.284Z"
 ---
 
 ## Summary
-As week two started I was feeling good. We had an awesome first week and parts of our project were really starting to come together. We had Monday off due to the holiday, but we all worked a partial day this day. This week we were focused on our APIs and authentication with OAuth. We choose Google for our OAuth. Since we had so much to accomplish in regards to all our APIs and the OAuth we decided to split.
+As week two started I was feeling good. We had an awesome first week and parts of our project were really starting to come together. We had Monday off due to the holiday, but we all worked a partial day this day. This week we were focused on our APIs and authentication with OAuth. We choose Google for our OAuth. Since we had so much to accomplish in regards to all our APIs and the OAuth we decided to divide and conquer.
 
-I took on the Stripe API which we will be using for the billing of our premium membership. The specific features this membership will come with are still undecided at this time. But it was fun to research the API, how it works and then get it integrated with our specific project. It was really nice having our team to help us out. Many times we would run into little issues and we would get together and show the issues and discuss how it is supposed to work. Typically this would lead to us figuring it out as a team. I am super fortunate to be have such an amazing team on this project.
+I took on the Stripe API which we will be using for the billing of our premium membership. The specific features this membership will come with are still undecided at this time. But it was fun to research the API, how it works and then get it integrated with our specific project. It was really nice having our team to help us out. Many times we would run into little issues and we would get together and show the issues and discuss how it is supposed to work. Typically this would lead to us figuring it out as a team. I am super fortunate to be on such an amazing team on this project.
 
 # Part 1 - Individual Accomplishments this Week
 Github Handle: Jameson13B
@@ -40,7 +40,7 @@ Github Handle: Jameson13B
   * [Trello](https://trello.com/c/KCy3WV26)
 
 ## Detailed Analysis
-For the my ticket I am detailing this week is going to be a dual ticket again. Stripe integration which happened required code on the front end and the back end. The front end consisted of setting up the checkout modal in a react component which I have included a screenshot below. It had a handful of customizions as you can see. Everything from the fields it prompts for, the header and descriptions, and the button. The best part about creating this as a React component is the "Go Premium" button can be placed in multiple spots anywhere on the application and it will simply trigger the Stripe modal.
+The ticket I am detailing this week is going to be a dual ticket again. Stripe integration which happened to required code on the front end and the back end. The front end consisted of setting up the checkout modal in a react component which I have included a screenshot below. It had a handful of customizions as you can see. Everything from the fields it prompts for, the header and descriptions, and the button. The best part about creating this as a React component is the "Go Premium" button can be placed in multiple spots anywhere on the application and it will simply trigger the Stripe modal.
 
 > Front end pop up modal
 > ![Stripe Modal](./stripe_modal.png)
@@ -63,7 +63,7 @@ This week was a fun week for me. I am a big fan of APIs and implementing them in
 
 A pretty good list and most are already done. Making great progress and feeling great so far. Excited to keep making progress and deliver an awesome product.
 
-## Front and Backend Connected:
+## Front and Back End Connected:
 ### If you visit this link, you can register/login and upgrade via stripe which all require front and back to be connected.
 https://team-comm.netlify.com/
 
@@ -72,5 +72,5 @@ https://team-comm.netlify.com/
 https://team-comm.netlify.com/login
 
 ## APIs are connected and can be interacted with through the front end:
-### Our hosted front end and hosted backend was used to upgrade a premium user. This is the Stripe dashboard confirmation
+Our hosted front end and hosted backend was used to upgrade a premium user. This is the Stripe dashboard confirmation
 ![Stripe Dashboard Subscription](./dashboard_subscription.png)
