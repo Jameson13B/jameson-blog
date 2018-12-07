@@ -64,6 +64,7 @@ Moving on to the Client, Back in week two I created a basic User Preferences com
 > User Preferences screen shot from the application  
 > ![Stripe Modal](./pref_screenshot.jpg)
 
-
 # Part 2 - Milestone Reflections
 [Type Milestone Reflections Here]
+
+## [Whiteboard #3 Video - Min Heap](Link Here)
