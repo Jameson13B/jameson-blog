@@ -49,7 +49,6 @@ Github Handle: Jameson13B
 The ticket I am choosing for my detailed analysis this week is *Preferences Connect Client to Server*. This ticket involved the work on the client(front end) and the server(back end). Back in Week 2 Austin built a user update endpoint with the UserModel at the time. As our project has evolved over the past two weeks the model has changed quite a bit and that existing endpoint needed a decent amount of rebuilding. Which is what I wanted to talk about first.
   
 ![Passport JS Logo](./passport_logo.png)
-![JWT Logo](./jwt_logo.png)
 
 For the server part I want talk about how we protected the User endpoints and others. We used a middleware called [Passport JS](http://www.passportjs.org/). Passport can be used in any Express web application and supports authentication using username and password, Facebook, Twitter, Google, and so many more strategies. We used it with our username and password login as well as Google OAuth. To tie this into the Analysis, we use this same middleware to protect user private endpoints. The following code shows a before and after the middleware is applied.
 
