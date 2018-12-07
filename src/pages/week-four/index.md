@@ -64,6 +64,49 @@ Moving on to the Client, Back in week two I created a basic User Preferences com
 > ![Stripe Modal](./pref_screenshot.jpg)
 
 # Part 2 - Milestone Reflections
-[Type Milestone Reflections Here]
+This week as a team was a challenging yet very rewarding week. As I mentioned above a big challenge was everyone working on fixing bugs and styling fixes while not editing the same file and having merge conflicts. However the change of components has been a big part of this week. Last week we havd the server basically completely built so this week we were actually testing the functions and trying to find bugs, typos, etc. As we found them we would do the most efficient but clean refactor possible and then test out the functionality again. Sometimes it was this simple, other times it took repeating this step many times until it function correctly and displayed correctly. We have all been helping on both client and server throughout the project but zooming in at the end in this last week we have sorta split into specific rolls to keep things organized, merges minimal, and to ensure it is looking and working correctly. As with all pull requests a separate member of the team takes time to review the changes before the merge.
 
-## [Whiteboard #3 Video - Min Heap](Link Here)
+## Landing:
+https://team-comm.netlify.com/ or https://team-comm.netlify.com/landing
+* Finished
+<hr/>
+
+## Login:
+https://team-comm.netlify.com/ (Modal on Landing)
+* Set persist maxAge
+<hr/>
+
+## Register:
+https://team-comm.netlify.com/register
+* Set persist maxAge
+<hr/>
+
+## Dashboard:
+https://team-comm.netlify.com/dashboard
+* Fix cursor on big ADD button
+* Add refer a friend
+* Fix menu overpane on mobile view
+* Delete confirmation
+<hr/>
+
+## Single Meeting:
+https://team-comm.netlify.com/meeting/:id
+* Overall mobile responsive fix
+<hr/>
+
+## Create Meeting:
+https://team-comm.netlify.com/createMeeting
+* Add validation to form fields / error for requests
+<hr/>
+
+## Update Meeting:
+https://team-comm.netlify.com/updateMeeting/:id
+* Add validation to form fields / error for requests
+<hr/>
+
+## User Preferences:
+https://team-comm.netlify.com/preferences
+* Finished
+<hr/>
+
+## [Whiteboard #3 Video - Min Heap](https://youtu.be/pXjussJFL5U)
