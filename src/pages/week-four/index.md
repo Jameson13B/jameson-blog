@@ -46,11 +46,11 @@ Github Handle: Jameson13B
   * [Trello](https://trello.com/c/8ii1xOoe)
 
 ## Detailed Analysis
-The ticket I am choosing for my detailed analysis this week is *Preferences Connect Client to Server*. This ticket involved the work on the client(front end) and the server(back end). Back in Week 2 Austin built a user update endpoint with the UserModel at the time. As our project has evolved over the past two weeks the model has changed quite a bit and that existing endpoint needed a decent amount of rebuilding. Which is what I wanted to talk about first.
+The ticket I am choosing for my detailed analysis this week is *Preferences Connect Client to Server*. This ticket involved the work on the client(front end) and the server(back end). Back in week two Austin built a user update endpoint with the UserModel at the time. As our project has evolved over the past two weeks the model has changed quite a bit and that existing endpoint needed a decent amount of rebuilding. We also needed to protect this endpoint to users only, which is what I wanted to talk about first.
   
 ![Passport JS Logo](./passport_logo.png)
 
-For the server part I want talk about how we protected the User endpoints and others. We used a middleware called [Passport JS](http://www.passportjs.org/). Passport can be used in any Express web application and supports authentication using username and password, Facebook, Twitter, Google, and so many more strategies. We used it with our username and password login as well as Google OAuth. To tie this into the Analysis, we use this same middleware to protect user private endpoints. The following code shows a before and after the middleware is applied.
+We used a middleware called [Passport JS](http://www.passportjs.org/). Passport can be used in any Express web application and supports authentication using username and password, Facebook, Twitter, Google, and so many more strategies. We used it with our username and password login as well as Google OAuth. To tie this into the Analysis, we use this same middleware to protect user private endpoints. The following code shows a before and after the middleware is applied.
 
 > Before Passport Middleware  
 > ![Before Passport Middleware](./pre_passport.jpg)
@@ -58,7 +58,7 @@ For the server part I want talk about how we protected the User endpoints and ot
 > After Passport Middlware  
 > ![After Passport Middleware](./post_passport.jpg)
 
-Moving on to the Client, Back in week two I created a basic User Preferences component, created a commented out axios call, and populated the form with dummy data. So I started by simply removing the dummy data and uncommenting the axios call. Since we are trying to hit a protected endpoint I set up the headers of the request with the axios token that our new middleware will check. Before hitting the request I set up a check to see if A) The user was changing their password or not, and B) If they were, did the new password and confirm new password matched. After that it was just passing in the edited data in the body of the request. See the picture below for a screenshot from our User Preferences page.
+Moving on to the Client, Back in week two I created a basic User Preferences component, created a commented out axios call, and populated the form with dummy data. So I started by simply removing the dummy data and uncommenting the axios call. Since we are trying to hit a protected endpoint I set up the headers of the request with the axios token that our new middleware will check. Before hitting the request I set up a check to see if A) The user was changing their password or not, and B) If they were, did the new password and confirm new password match. After that it was just passing in the edited data in the body of the request and that was it. See the picture below for a screenshot from our User Preferences page.
 
 > User Preferences screen shot from the application  
 > ![Stripe Modal](./pref_screenshot.jpg)
