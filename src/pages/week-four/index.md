@@ -12,7 +12,7 @@ Github Handle: Jameson13B
 
 ## Tasks Pulled
 
-## Total - 8
+### Total - 8
 
 ### Front End
 * Ticket 1 - Update Meeting Component
