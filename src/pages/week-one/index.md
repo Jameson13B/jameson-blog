@@ -14,6 +14,8 @@ Github Handle: Jameson13B
 
 ## Tasks Pulled
 
+## Total - 4
+
 ### Front End
 * Ticket 1 - Cleaned up react-app boilerplate & added CSS reset
   * [Github](https://github.com/Lambda-School-Labs/Labs8-TeamComms/pull/1)

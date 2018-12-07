@@ -14,6 +14,8 @@ Github Handle: Jameson13B
 
 ## Tasks Pulled
 
+## Total - 6
+
 ### Front End
 * Ticket 1 - Created the basic Conversation List component that will display the conversations
   * [Github](https://github.com/Lambda-School-Labs/Labs8-TeamComms/pull/18)

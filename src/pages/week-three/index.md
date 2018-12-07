@@ -14,6 +14,8 @@ Github Handle: Jameson13B
 
 ## Tasks Pulled
 
+## Total - 8
+
 ### Front End
 * Ticket 1 - User Preference Functionality
   * [Github](https://github.com/Lambda-School-Labs/Labs8-TeamComms/pull/48)
