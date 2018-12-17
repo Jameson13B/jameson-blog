@@ -86,4 +86,3 @@ This last week was about making sure everything looked perfect and functionality
 ## Media Licenses:
 Site Media on [Github](https://github.com/Lambda-School-Labs/Labs8-TeamComms/tree/master/public/images)
 * Licenses for all media on site have been tracked. This info is currently being compiled and will be added in the next couple weeks. This is something we have been aware of since the beginning and my teammate JJ did a great job at keeping track of this info.
-<hr/>
